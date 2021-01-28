@@ -2,4 +2,4 @@
 
  Este repositório foi criado em caráter de testes (alteração no StudioCode).
  
- Alteração no site (GitHub)
+ Alteração diretamente do site do GitHub. 
